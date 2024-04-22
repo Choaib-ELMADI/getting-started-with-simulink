@@ -1,1 +1,2 @@
 ==> space bar                       : fit the whole model to view
+==> shift + drag block              : move the block out of a chain

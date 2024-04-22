@@ -1,3 +1,4 @@
 ==> Sine Wave                       : generate a sine wave signal
 ==> Gain                            : multiply a signal by a constant
-==> scope                           : visualize signals
+==> Scope                           : visualize and monitor signals
+==> Transfer Fct                    : the plant of a system
