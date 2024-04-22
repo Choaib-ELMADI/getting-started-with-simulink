@@ -1,0 +1,3 @@
+==> Sine Wave                       : generate a sine wave signal
+==> Gain                            : multiply a signal by a constant
+==> scope                           : visualize signals
