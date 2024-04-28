@@ -1,2 +1,4 @@
 ==> space bar                       : fit the whole model to view
 ==> shift + drag block              : move the block out of a chain
+==> ctrl + drag block               : duplicate the block
+==> ctrl + r                        : rotate a block

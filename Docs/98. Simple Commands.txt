@@ -12,3 +12,6 @@
 > click start point then end point              : connect two blocks
 > right click + drag                            : branch out from a line
 > left click + drag                             : move the line
+
+***
+> select block + arrows                         : move the block by steps
