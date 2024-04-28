@@ -3,3 +3,7 @@
 -> Use the Simulation Data Inspector to view the differences between all the runs you did
 
 -> Use the PID Tuner to get better tuned results
+
+-> Create subsystems from a single block
+
+-> Convert a subsystems to a reference model
