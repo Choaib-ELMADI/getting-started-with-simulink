@@ -1,0 +1,4 @@
+1. Buses:
+    ==> You can use Simulink buses to keep signals organized.
+    ==> Create buses with the bus creator block.
+    ==> To look inside a bus, use the bus selector block.
