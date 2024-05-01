@@ -5,7 +5,8 @@
 -> Use the PID Tuner to get better tuned results
 
 -> Create subsystems from a single block (or mask subsystems)
-
+-> You can add an image background for the subsystems
 -> Convert a subsystems to a reference model
+
 
 -> You can change the layout of the scope to visualize multiple signals
