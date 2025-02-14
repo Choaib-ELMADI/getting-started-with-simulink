@@ -1,0 +1,7 @@
+==> Sine Wave                       : generate a sine wave signal
+==> Gain                            : multiply a signal by a constant
+==> Scope                           : visualize and monitor signals
+==> Transfer Fct                    : the plant of a system
+
+==> Dashboard Scope                 : visualize signals withen the same canvas (not in a new window)
+==> Viewers                         : visualize and monitor signals

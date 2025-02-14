@@ -1,0 +1,5 @@
+1. What is Simulink?
+    => Simulink is a block diagram environment for multidomain simulation and Model-Based Design.
+    => It supports system-level design, simulation, automatic code generation, and continuous test and verification of embedded systems.
+    => Simulink provides a graphical editor, customizable block libraries, and solvers for modeling and simulating dynamic systems.
+    => It is integrated with MATLAB, enabling you to incorporate MATLAB algorithms into models and export simulation results to MATLAB for further analysis.
