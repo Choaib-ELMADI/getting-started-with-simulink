@@ -1,0 +1,21 @@
+. Conditions are boolean expressions that specify if a transition path is valid.
+    -> A condition is part of the transition label.
+    -> Conditions are identified by this '[]'.
+    -> A condition can consist of multiple boolean expressions.
+    -> Conditions can be created using:
+        - Boolean data
+        - Change detection operators
+        - Return values of function calls
+        - Comparison operators
+
+. Stateflow Special Operators:
+    -> Timing Operators:
+        - before(x, tick) : Initially, the signal is at '1' and lasts x ticks before it changes to '0'.
+        - at(x, tick)     : A pulse at the x-th tick.
+        - after(x, tick)  : Initially, the signal is at '0' and changes to '1' after x ticks.
+        - every(x, tick)  : A pulse every x ticks.
+
+    -> Change Detection Operators:
+        - hasChanged(VAR)                  : Check if a variable's value has changed.
+        - hasChangedTo(VAR, targetVal)     : Check if a variable's value has changed to a target value.
+        - hasChangedFrom(VAR, originalVal) : Check if a variable's value has changed from an original value.
