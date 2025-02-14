@@ -1,0 +1,12 @@
+. A transition is a link between two graphical objects.
+    -> Transition syntax:
+        > event[condition]{condition_action;}/{transition_action;}
+
+    -> The default transition is the main entry point to an FSM or a flow graph.
+    -> The default transition has no condition.
+
+    -> Multiple outgoing transitions are assigned priority numbers.
+    -> The lower the number, the higher the priority.
+    -> To change transition priority order, right click on that number -> Execution Order -> ...
+
+    -> Junctions divide a transition into transition segments.
