@@ -1,4 +1,0 @@
-. Code Generation:
-    > Model Configuration Parameters -> Code Generation -> Target Selection
-    > Model Configuration Parameters -> Code Generation -> Report
-    > Ctrl + B to generate the code

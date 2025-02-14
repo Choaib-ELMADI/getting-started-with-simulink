@@ -1,2 +1,0 @@
-1. Variant Subsystem:
-    ==> Variant Subsystems are used to add multiple choices for a single model.
