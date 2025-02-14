@@ -1,0 +1,6 @@
+. Stateflow data scope:
+    -> Input     : Read-only    , Comes from Simulink inputs
+    -> Output    : Write-only   , Sent to Simulink outputs
+    -> Local     : Read & Write , Internal to Stateflow
+    -> Parameter : Read-only	, Defined in Simulink & used in Stateflow
+    -> Constant  : Read-only	, Internal to Stateflow
