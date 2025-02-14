@@ -15,6 +15,7 @@ This repository provides an introduction to Simulink for electronics, mechanical
 - **Docs**: Contains helpful documentation and guides.
 - **Libraries**: Custom Simulink libraries for various applications.
 - **Models**: Collection of Simulink models for engineering simulations.
+- **Model Based Design - MBD**: Notes and resources from a Udemy course.
 - **SignalProcessing_ert_rtw**: Generated real-time workshop files for signal processing models.
 - **Simulation Data Inspector**: Stores logged simulation data for analysis.
 - **PID_Subsystem.slx**: A Simulink model implementing a PID control subsystem.
@@ -22,6 +23,14 @@ This repository provides an introduction to Simulink for electronics, mechanical
   - **SignalProcessing.eep**: EEPROM file for signal processing configurations.
   - **SignalProcessing.elf**: Executable linked format file for embedded deployment.
   - **SignalProcessing.hex**: Hex file for microcontroller programming.
+
+## Model Based Development using Stateflow
+
+The **Model Based Design - MBD** folder contains notes and resources from the Udemy course [Model Based Development using Stateflow](https://www.udemy.com/course/model-based-development-mbd-using-stateflow/).
+
+This course focuses on `Stateflow` for designing complex logic-driven systems, particularly for automotive applications. It covers essential concepts of model based development (MBD), enabling engineers to build robust and efficient control logic.
+
+**Earned Certificate**: [Model Based Development using Stateflow](https://www.udemy.com/)
 
 ## Simulink Development Tools
 
