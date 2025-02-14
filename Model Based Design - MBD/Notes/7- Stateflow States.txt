@@ -1,0 +1,13 @@
+. A state describes an operating mode of a reactive system.
+    -> Each state describes a stable stable of the system.
+    -> The state name shall correspond to the aim of the state.
+
+. Exclusive (OR) States:
+    -> In exclusive states, only one state is active at a given time.
+    -> To switch between OR and AND states:
+        > Enter the Chart -> Right Click -> Decomposition -> ...
+
+. Parallel (AND) States:
+    -> In parallel states, states are executed in 'pseudo' parallel.
+    -> To switch between AND and OR states:
+        > Enter the Chart -> Right Click -> Decomposition -> ...
