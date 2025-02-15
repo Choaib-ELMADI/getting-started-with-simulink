@@ -1,0 +1,5 @@
+. Simulink functions are functions that are defined and used inside Stateflow charts.
+
+. Matlab functions are functions that are defined using Matlab code and used inside Stateflow charts.
+
+. Graphical functions are functions that are defined using flow charts and used inside Stateflow charts.
