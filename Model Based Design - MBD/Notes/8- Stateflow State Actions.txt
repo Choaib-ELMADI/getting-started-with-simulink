@@ -1,0 +1,5 @@
+. States can have different action types:
+    -> "entry:" or "en:"  : executes when the state is entered.
+    -> "during:" or "du:" : executes when the state is active and there is no valid state transition.
+    -> "exit:" or "ex:"   : executes when the state is active and a transition out occurs.
+    -> "on event_name:"   : executes when the state is active and the event_name event occurs.
