@@ -15,6 +15,8 @@
         - after(x, tick)  : Initially, the signal is at '0' and changes to '1' after x ticks.
         - every(x, tick)  : A pulse every x ticks.
 
+    > tick === 0.1 second => 10 ticks = 1 second!
+
     -> Change Detection Operators:
         - hasChanged(VAR)                  : Check if a variable's value has changed.
         - hasChangedTo(VAR, targetVal)     : Check if a variable's value has changed to a target value.

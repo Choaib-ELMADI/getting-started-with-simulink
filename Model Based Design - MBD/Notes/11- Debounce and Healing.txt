@@ -1,0 +1,6 @@
+. Debouncing:
+    -> Debounce is removing unwanted input noise from buttons, switches, ...
+    -> It is a technique used to ignore temporary, unintended signal changes.
+
+. Healing:
+    -> Healing helps the system recover from an error by waiting for the signal to stablize again.
