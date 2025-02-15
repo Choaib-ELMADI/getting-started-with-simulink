@@ -1,0 +1,13 @@
+. A flow chart is a graphical construct that models logic patterns using connective junctions and transitions.
+    -> Junctions provide decision branches between alternate transition paths.
+
+. Basic Rules:
+    => Conditions are drawn horizontally.
+    -> The horizontal conditional path must always have priority '1'.
+    => Condition actions are drawn vertically.
+    -> Right-to-left horizontal transitions must be blank labeled or comment label only.
+    -> Junctions must have an unconditional path (default transition).
+
+. Pattern Generator:
+    -> To generate a pattern:
+        > Enter the Chart -> Right Click -> Add Pattern In Chart -> ...
