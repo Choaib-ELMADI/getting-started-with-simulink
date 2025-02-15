@@ -1,0 +1,7 @@
+. State Hierarchy:
+    -> A state is considered 'superstate' if it contains some other states.
+    -> A state is considered 'substate' if it is contained by another state.
+
+. Hierarchy Actions Execution:
+    -> All entry actions from the highest to the lowest level are carried out.
+    -> All exit actions from the lowest to the highest level are carried out.

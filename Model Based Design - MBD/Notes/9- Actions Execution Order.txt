@@ -1,0 +1,5 @@
+. State actions execution order:
+    1) Condition action                  /* ACTION_1 */
+    2) Exit action of the exited state   /* ACTION_2 */
+    3) Transition action                 /* ACTION_3 */
+    4) Entry action of the entered state /* ACTION_4 */
