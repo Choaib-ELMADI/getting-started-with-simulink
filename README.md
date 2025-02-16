@@ -30,7 +30,7 @@ The **Model Based Design - MBD** folder contains notes and resources from the Ud
 
 This course focuses on `Stateflow` for designing complex logic-driven systems, particularly for automotive applications. It covers essential concepts of model based development (MBD), enabling engineers to build robust and efficient control logic.
 
-**Earned Certificate**: [Model Based Development using Stateflow](https://www.udemy.com/)
+**Earned Certificate**: [Model Based Development using Stateflow](https://www.udemy.com/certificate/UC-c3bb88ec-92a4-4d48-8d7f-0db7311dc0bd/)
 
 ## Simulink Development Tools
 
