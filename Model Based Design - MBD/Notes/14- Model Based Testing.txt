@@ -1,0 +1,5 @@
+. To create a test:
+    > Right Click -> Test Harness -> Create for Model...
+
+. Test Sequence:
+    -> Test Sequence Editor enables the creation of different scenarios in order to test a model's behavior.
