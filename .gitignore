@@ -6,3 +6,5 @@ slprj
 *.css
 *.html
 *.js
+
+SignalProcessing.*
