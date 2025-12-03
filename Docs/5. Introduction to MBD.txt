@@ -1,0 +1,23 @@
+1. What is Model-Based Development?
+    => Model-based design / development (MBD) is a software development methodology.
+    => It is the practice of leveraging simulation to understand the behavior of a system.
+    => This system may be already existing or needs to be constructed.
+    => MBD focuses on creating mathematical models.
+    => These models represent the system behavior and generate system code.
+    => MBD reduces time-to-market and ensures early error detection.
+
+2. What is a Model?
+    => A model is a representation of a real system focusing on some important aspects.
+    => It is a graphical representation of a system.
+
+3. Model-Based .vs Code-Based:
+    *-------------------------*----------------------------------------------*------------------------------------------------------------------*
+    | Aspect                  | Model-Based Development                      | Code-Based Development                                           |
+    | Approach                | Focuses on creating mathematical models      | Direct manual coding of software                                 |
+    | Complexity Management   | Manages inherent complexity efficiently      | Manual coding can lead to complex, hard-to-maintain structures   |
+    | Maintainability         | Simplifies function structure maintenance    | Code-focused approach may complicate maintenance                 |
+    | Portability             | Easier portability to other microcontrollers | Challenges in porting large code bases to new platforms          |
+    | Development Time        | Reduces time-to-market                       | May result in longer development cycles                          |
+    | Testing Integration     | Testing performed at every step, iterative   | Testing often concentrated in later phases, costlier corrections |
+    | System-Level Simulation | Allows for early system-level simulation     | Relies on prototypes for system integration                      |
+    *-------------------------*----------------------------------------------*------------------------------------------------------------------*
