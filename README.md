@@ -12,37 +12,33 @@ This repository provides an introduction to Simulink for electronics, mechanical
 
 ## Contents
 
-- **Docs**: Contains helpful documentation and guides.
-- **Libraries**: Custom Simulink libraries for various applications.
-- **Models**: Collection of Simulink models for engineering simulations.
-- **Model Based Design - MBD**: Notes and resources from a Udemy course.
-- **SignalProcessing_ert_rtw**: Generated real-time workshop files for signal processing models.
-- **Simulation Data Inspector**: Stores logged simulation data for analysis.
-- **PID_Subsystem.slx**: A Simulink model implementing a PID control subsystem.
-- **Signal Processing Files**:
-  - **SignalProcessing.eep**: EEPROM file for signal processing configurations.
-  - **SignalProcessing.elf**: Executable linked format file for embedded deployment.
-  - **SignalProcessing.hex**: Hex file for microcontroller programming.
+- **Docs:** Contains helpful documentation and guides.
+- **Libraries:** Custom Simulink libraries for various applications.
+- **Model-Based Development with Stateflow:** Notes and resources from a Udemy course.
+- **Models:** Collection of Simulink models for engineering simulations.
+- **SignalProcessing_ert_rtw:** Generated real-time workshop files for signal processing models.
+- **Simulation Data Inspector:** Stores logged simulation data for analysis.
+- **PID_Subsystem.slx:** A Simulink model implementing a PID control subsystem.
 
-## Model Based Development using Stateflow
+## Model-Based Development with Stateflow
 
-The **Model Based Design - MBD** folder contains notes and resources from the Udemy course [Model Based Development using Stateflow](https://www.udemy.com/course/model-based-development-mbd-using-stateflow/).
+The **Model-Based Development with Stateflow** folder contains notes and resources from the Udemy course [Model-Based Development using Stateflow](https://www.udemy.com/course/model-based-development-mbd-using-stateflow/).
 
 This course focuses on `Stateflow` for designing complex logic-driven systems, particularly for automotive applications. It covers essential concepts of model based development (MBD), enabling engineers to build robust and efficient control logic.
 
-**Earned Certificate**: [Model Based Development using Stateflow](https://www.udemy.com/certificate/UC-c3bb88ec-92a4-4d48-8d7f-0db7311dc0bd/)
+**Earned Certificate:** [Model-Based Development using Stateflow](https://www.udemy.com/certificate/UC-c3bb88ec-92a4-4d48-8d7f-0db7311dc0bd/)
 
 ## Simulink Development Tools
 
 Here are some essential tools for Simulink development:
 
-- **MATLAB**: A high-level programming language and interactive environment for numerical computation, visualization, and programming.
-- **Simulink**: A graphical programming environment for modeling, simulating, and analyzing multidomain dynamical systems.
-- **Simscape**: A tool for modeling and simulating physical systems within Simulink.
-- **Stateflow**: A tool for designing state machines and control logic.
-- **Simulink Coder**: Generates C and C++ code from Simulink models for real-time execution.
-- **Simulink Real-Time**: Enables real-time simulation and testing of models on hardware.
-- **MATLAB Online**: A cloud-based version of MATLAB accessible via a web browser.
+- **MATLAB:** A high-level programming language and interactive environment for numerical computation, visualization, and programming.
+- **Simulink:** A graphical programming environment for modeling, simulating, and analyzing multidomain dynamical systems.
+- **Simscape:** A tool for modeling and simulating physical systems within Simulink.
+- **Stateflow:** A tool for designing state machines and control logic.
+- **Simulink Coder:** Generates C and C++ code from Simulink models for real-time execution.
+- **Simulink Real-Time:** Enables real-time simulation and testing of models on hardware.
+- **MATLAB Online:** A cloud-based version of MATLAB accessible via a web browser.
 
 <div align="center">
 
