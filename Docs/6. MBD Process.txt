@@ -1,0 +1,30 @@
+1. Model Development Process:
+    => The MBD process consits of four main stages:
+        . Requirements:
+            - Understand what the system should do (inputs, outputs, constraints).
+            - Write the requirements in a simple and clear way so they can be tested later.
+            - Make sure all requirements are measurable, complete, and agreed on.
+
+        . Design:
+            - Create block diagrams or models that represent how the system will work.
+            - Break the system into smaller functions to make it easier to manage.
+            - Check that the design matches the requirements before moving forward.
+
+        . Implementation:
+            - Convert the model into real code automatically or manually.
+            - Integrate the generated code into the target hardware (MCU, controller, etc.).
+            - Make sure the code meets performance, memory, and timing needs.
+
+        . Testing:
+            - Simulate the model to see if it behaves as expected.
+            - Test the generated code on hardware (HiL, SiL, MiL depending on the stage).
+            - Validate that the final system satisfies all requirements.
+
+2. MBD through V-Model:
+    => View image: ./Images/mbd-through-v-model.png
+
+    => MiL: Model-in-the-Loop:
+        . Happens in a simulation environment and tests the model itself.
+
+    => SiL: Software-in-the-Loop:
+        . Happens in a simulation environment also and tests the code generated from the model.
