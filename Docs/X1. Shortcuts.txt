@@ -1,0 +1,13 @@
+==> space bar                        : fit the whole model to view
+
+==> select block + arrows            : move the block by steps
+==> ctrl + r                         : rotate a block
+
+==> shift + drag block               : move the block out of a chain
+==> ctrl + drag block                : duplicate the block
+==> click start point then end point : connect two blocks
+==> right click + drag               : branch out from a line
+==> left click + drag                : move the line
+
+==> double click the canvas          : start searching for blocks
+==> double click a block             : edit the block properties

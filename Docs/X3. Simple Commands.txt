@@ -1,0 +1,5 @@
+***
+> simulink                                      : open Simulink from MATLAB Command Window
+
+***
+> click Library Browser icon                    : bring blocks to the Simulink model
