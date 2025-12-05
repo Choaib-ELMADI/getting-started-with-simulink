@@ -1,0 +1,9 @@
+1. Code Generation Process:
+    => Open your Simulink model.
+    => Go to: Code > C/C++ Code > Embedded Coder Quick Start
+    => Follow popup instructions and configurations.
+    => Generated code files (at least):
+        . ert_main.c
+        . Your_Model_Name.c
+        . Your_Model_Name.h
+        . rtwtypes.h
